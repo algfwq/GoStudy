@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"runtime"
 	"strings"
@@ -172,6 +173,32 @@ func main() {
 	//	fmt.Println(i)
 	//	i = i + 1
 	//	goto GOTO
+
+	//字符串转列表
+	input := "['a','bbb','hhh','alg']"
+	list, err := convertToList(input)
+	if err != nil {
+		fmt.Println("Error:", err)
+	} else {
+		fmt.Println("List:", list)
+		// 使用for循环和range遍历切片
+		for index, element := range list {
+			fmt.Printf("Index: %d, Element: %s\n", index, element)
+		}
+	}
+}
+
+// 字符串转列表
+func convertToList(s string) ([]string, error) {
+	// 将单引号替换为双引号以匹配JSON格式
+	jsonStr := strings.ReplaceAll(s, "'", "\"")
+
+	var list []string
+	err := json.Unmarshal([]byte(jsonStr), &list)
+	if err != nil {
+		return nil, err
+	}
+	return list, nil
 }
 
 // 自定义错误
