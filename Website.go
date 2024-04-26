@@ -7,8 +7,11 @@ import (
 )
 
 func myWeb(w http.ResponseWriter, r *http.Request) {
-	//交互。。。
-	r.ParseForm() //它还将请求主体解析为表单，获得POST Form表单数据，必须先调用这个函数
+	//交互
+	err := r.ParseForm() //它还将请求主体解析为表单，获得POST Form表单数据，必须先调用这个函数
+	if err != nil {
+		return
+	}
 
 	fmt.Println("path", r.URL.Path)
 
@@ -38,7 +41,10 @@ func myWeb(w http.ResponseWriter, r *http.Request) {
 		"someStr": "这是一个开始",
 	}
 
-	t.Execute(w, data)
+	errExecute := t.Execute(w, data)
+	if errExecute != nil {
+		return
+	}
 
 	//fmt.Fprintf(w, "这是一个开始")
 }
