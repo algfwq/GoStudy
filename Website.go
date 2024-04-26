@@ -7,7 +7,7 @@ import (
 )
 
 func myWeb(w http.ResponseWriter, r *http.Request) {
-	//交互
+	//交互。。。
 	r.ParseForm() //它还将请求主体解析为表单，获得POST Form表单数据，必须先调用这个函数
 
 	fmt.Println("path", r.URL.Path)
