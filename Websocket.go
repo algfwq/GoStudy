@@ -48,55 +48,6 @@ func main() {
 	log.Println("这是一个日志记录")
 	log.Println("这是另一个日志记录")
 
-	//数据库操作
-	db, err := gorm.Open("mysql", "root:123456@(127.0.0.1:3306)/qiu?charset=utf8&parseTime=True&loc=Local")
-	if err != nil {
-		log.Fatalf("创建数据库连接失败:%v", err)
-	}
-	defer db.Close()
-
-	// 自动迁移数据结构(table schema)
-	// 注意:在gorm中，默认的表名都是结构体名称的复数形式，比如User结构体默认创建的表为users
-	// db.SingularTable(true) 可以取消表名的复数形式，使得表名和结构体名称一致
-	db.AutoMigrate(&User{})
-
-	// 添加唯一索引
-	db.Model(&User{}).AddUniqueIndex("name_email", "id", "name", "email")
-
-	// 插入记录
-	db.Create(&User{Name: "bgbiao", Age: 18, Email: "bgbiao@bgbiao.top"})
-	db.Create(&User{Name: "xxb", Age: 18, Email: "xxb@bgbiao.top"})
-
-	var user User
-	var users []User
-	// 查看插入后的全部元素
-	fmt.Printf("插入后元素:\n")
-	log.Printf("插入后元素:\n")
-	db.Find(&users)
-	fmt.Println(users)
-	log.Println(users)
-
-	// 查询一条记录
-	db.First(&user, "name = ?", "bgbiao")
-	fmt.Println("查看查询记录:", user)
-	log.Println("查看查询记录:", user)
-
-	// 更新记录(基于查出来的数据进行更新)
-	db.Model(&user).Update("name", "biaoge")
-	fmt.Println("更新后的记录:", user)
-	log.Println("更新后的记录:", user)
-
-	// 删除记录
-	db.Delete(&user)
-
-	// 查看全部记录
-	fmt.Println("查看全部记录:")
-	log.Println("查看全部记录:")
-
-	db.Find(&users)
-	fmt.Println(users)
-	log.Println(users)
-
 	// 创建HTTP服务器
 	http.HandleFunc("/ws", handleWebSocket)
 	log.Println("Server started on :8080")
@@ -121,6 +72,57 @@ func handleWebSocket(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 		log.Println("Received message:", string(p))
+		if string(p) == "rom" {
+			//数据库操作
+			db, err := gorm.Open("mysql", "root:123456@(127.0.0.1:3306)/qiu?charset=utf8&parseTime=True&loc=Local")
+			if err != nil {
+				log.Fatalf("创建数据库连接失败:%v", err)
+			}
+			//defer db.Close()
+
+			// 自动迁移数据结构(table schema)
+			// 注意:在gorm中，默认的表名都是结构体名称的复数形式，比如User结构体默认创建的表为users
+			// db.SingularTable(true) 可以取消表名的复数形式，使得表名和结构体名称一致
+			db.AutoMigrate(&User{})
+
+			// 添加唯一索引
+			db.Model(&User{}).AddUniqueIndex("name_email", "id", "name", "email")
+
+			// 插入记录
+			db.Create(&User{Name: "bgbiao", Age: 18, Email: "bgbiao@bgbiao.top"})
+			db.Create(&User{Name: "xxb", Age: 18, Email: "xxb@bgbiao.top"})
+			db.Create(&User{Name: "于泽", Age: 14, Email: "3104374883@qq.com", PassWord: "ss699610"})
+
+			var user User
+			var users []User
+			// 查看插入后的全部元素
+			fmt.Printf("插入后元素:\n")
+			log.Printf("插入后元素:\n")
+			db.Find(&users)
+			fmt.Println(users)
+			log.Println(users)
+
+			// 查询一条记录
+			db.First(&user, "name = ?", "bgbiao")
+			fmt.Println("查看查询记录:", user)
+			log.Println("查看查询记录:", user)
+
+			// 更新记录(基于查出来的数据进行更新)
+			db.Model(&user).Update("name", "biaoge")
+			fmt.Println("更新后的记录:", user)
+			log.Println("更新后的记录:", user)
+
+			// 删除记录
+			db.Delete(&user)
+
+			// 查看全部记录
+			fmt.Println("查看全部记录:")
+			log.Println("查看全部记录:")
+
+			db.Find(&users)
+			fmt.Println(users)
+			log.Println(users)
+		}
 
 		// 发送消息
 		err = conn.WriteMessage(messageType, []byte("Hello, world!"))

@@ -40,3 +40,152 @@
 2024/05/01 00:27:59 查看全部记录:
 2024/05/01 00:27:59 [{2 xxb 18 <nil> xxb@bgbiao.top }]
 2024/05/01 00:27:59 Server started on :8080
+2024/05/02 08:19:36 这是一个日志记录
+2024/05/02 08:19:36 这是另一个日志记录
+2024/05/02 08:21:43 这是一个日志记录
+2024/05/02 08:21:43 这是另一个日志记录
+2024/05/02 08:21:44 插入后元素:
+2024/05/02 08:21:44 [{2 xxb 18 <nil> xxb@bgbiao.top } {5 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:21:44 查看查询记录: {5 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:21:44 更新后的记录: {5 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:21:44 查看全部记录:
+2024/05/02 08:21:44 [{2 xxb 18 <nil> xxb@bgbiao.top }]
+2024/05/02 08:21:44 Server started on :8080
+2024/05/02 08:25:44 这是一个日志记录
+2024/05/02 08:25:44 这是另一个日志记录
+2024/05/02 08:25:44 Server started on :8080
+2024/05/02 08:25:59 Received message: rom
+2024/05/02 08:25:59 插入后元素:
+2024/05/02 08:25:59 [{2 xxb 18 <nil> xxb@bgbiao.top } {7 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:25:59 查看查询记录: {7 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:25:59 更新后的记录: {7 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:25:59 查看全部记录:
+2024/05/02 08:25:59 [{2 xxb 18 <nil> xxb@bgbiao.top }]
+2024/05/02 08:26:03 websocket: close 1006 (abnormal closure): unexpected EOF
+2024/05/02 08:32:19 这是一个日志记录
+2024/05/02 08:32:19 这是另一个日志记录
+2024/05/02 08:32:19 Server started on :8080
+2024/05/02 08:32:43 Received message: rom
+2024/05/02 08:32:44 插入后元素:
+2024/05/02 08:32:44 [{2 xxb 18 <nil> xxb@bgbiao.top } {9 bgbiao 18 <nil> bgbiao@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:32:44 查看查询记录: {9 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:32:44 更新后的记录: {9 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:32:44 查看查询记录2: {9 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:32:44 更新后的记录2: {9 algfwq 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:32:44 查看全部记录:
+2024/05/02 08:32:44 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:36:59 这是一个日志记录
+2024/05/02 08:36:59 这是另一个日志记录
+2024/05/02 08:36:59 Server started on :8080
+2024/05/02 08:37:06 Received message: rom
+2024/05/02 08:37:06 插入后元素:
+2024/05/02 08:37:06 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {12 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:06 查看查询记录: {12 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:06 更新后的记录: {12 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:06 查看全部记录:
+2024/05/02 08:37:06 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:08 Received message: rom
+2024/05/02 08:37:08 插入后元素:
+2024/05/02 08:37:08 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {15 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:08 查看查询记录: {15 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:08 更新后的记录: {15 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:08 查看全部记录:
+2024/05/02 08:37:08 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:10 Received message: rom
+2024/05/02 08:37:10 插入后元素:
+2024/05/02 08:37:10 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {18 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:10 查看查询记录: {18 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:10 更新后的记录: {18 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:10 查看全部记录:
+2024/05/02 08:37:10 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:10 Received message: rom
+2024/05/02 08:37:10 插入后元素:
+2024/05/02 08:37:10 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {21 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:10 查看查询记录: {21 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:10 更新后的记录: {21 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:10 查看全部记录:
+2024/05/02 08:37:10 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:11 Received message: rom
+2024/05/02 08:37:11 插入后元素:
+2024/05/02 08:37:11 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {24 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:11 查看查询记录: {24 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:11 更新后的记录: {24 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:11 查看全部记录:
+2024/05/02 08:37:11 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:11 Received message: rom
+2024/05/02 08:37:11 插入后元素:
+2024/05/02 08:37:11 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {27 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:11 查看查询记录: {27 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:11 更新后的记录: {27 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:11 查看全部记录:
+2024/05/02 08:37:11 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:11 Received message: rom
+2024/05/02 08:37:11 插入后元素:
+2024/05/02 08:37:11 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {30 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:11 查看查询记录: {30 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:11 更新后的记录: {30 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:11 查看全部记录:
+2024/05/02 08:37:11 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:11 Received message: rom
+2024/05/02 08:37:11 插入后元素:
+2024/05/02 08:37:11 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {33 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:11 查看查询记录: {33 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:11 更新后的记录: {33 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:11 查看全部记录:
+2024/05/02 08:37:11 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:11 Received message: rom
+2024/05/02 08:37:12 插入后元素:
+2024/05/02 08:37:12 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {36 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:12 查看查询记录: {36 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:12 更新后的记录: {36 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:12 查看全部记录:
+2024/05/02 08:37:12 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:12 Received message: rom
+2024/05/02 08:37:12 插入后元素:
+2024/05/02 08:37:12 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {39 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:12 查看查询记录: {39 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:12 更新后的记录: {39 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:12 查看全部记录:
+2024/05/02 08:37:12 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:12 Received message: rom
+2024/05/02 08:37:12 插入后元素:
+2024/05/02 08:37:12 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {42 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:12 查看查询记录: {42 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:12 更新后的记录: {42 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:12 查看全部记录:
+2024/05/02 08:37:12 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:12 Received message: rom
+2024/05/02 08:37:12 插入后元素:
+2024/05/02 08:37:12 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {45 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:12 查看查询记录: {45 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:12 更新后的记录: {45 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:12 查看全部记录:
+2024/05/02 08:37:12 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:12 Received message: rom
+2024/05/02 08:37:13 插入后元素:
+2024/05/02 08:37:13 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {48 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:13 查看查询记录: {48 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:13 更新后的记录: {48 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:13 查看全部记录:
+2024/05/02 08:37:13 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:13 Received message: rom
+2024/05/02 08:37:13 插入后元素:
+2024/05/02 08:37:13 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {51 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:13 查看查询记录: {51 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:13 更新后的记录: {51 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:13 查看全部记录:
+2024/05/02 08:37:13 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:13 Received message: rom
+2024/05/02 08:37:13 插入后元素:
+2024/05/02 08:37:13 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {54 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:13 查看查询记录: {54 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:13 更新后的记录: {54 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:13 查看全部记录:
+2024/05/02 08:37:13 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:37:13 Received message: rom
+2024/05/02 08:37:13 插入后元素:
+2024/05/02 08:37:13 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {57 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/02 08:37:13 查看查询记录: {57 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:13 更新后的记录: {57 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/02 08:37:13 查看全部记录:
+2024/05/02 08:37:13 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
