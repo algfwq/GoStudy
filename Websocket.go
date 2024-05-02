@@ -91,7 +91,7 @@ func handleWebSocket(w http.ResponseWriter, r *http.Request) {
 			// 插入记录
 			db.Create(&User{Name: "bgbiao", Age: 18, Email: "bgbiao@bgbiao.top"})
 			db.Create(&User{Name: "xxb", Age: 18, Email: "xxb@bgbiao.top"})
-			db.Create(&User{Name: "于泽", Age: 14, Email: "3104374883@qq.com", PassWord: "ss699610"})
+			db.Create(&User{Name: "于泽", Age: 14, Email: "3104374883@qq.com", PassWord: "xxx"})
 
 			var user User
 			var users []User

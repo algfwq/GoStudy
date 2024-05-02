@@ -189,3 +189,8 @@
 2024/05/02 08:37:13 更新后的记录: {57 biaoge 18 <nil> bgbiao@bgbiao.top }
 2024/05/02 08:37:13 查看全部记录:
 2024/05/02 08:37:13 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/02 08:40:24 这是一个日志记录
+2024/05/02 08:40:24 这是另一个日志记录
+2024/05/02 08:40:24 Server started on :8080
+2024/05/02 08:40:37 Received message: rom
+2024/05/02 08:40:37 创建数据库连接失败:dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it.
