@@ -194,3 +194,366 @@
 2024/05/02 08:40:24 Server started on :8080
 2024/05/02 08:40:37 Received message: rom
 2024/05/02 08:40:37 创建数据库连接失败:dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it.
+2024/05/03 11:14:46 这是一个日志记录
+2024/05/03 11:14:46 这是另一个日志记录
+2024/05/03 11:14:46 Server started on :8080
+2024/05/03 11:14:52 Received message: rom
+2024/05/03 11:14:52 插入后元素:
+2024/05/03 11:14:52 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610} {60 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/03 11:14:52 查看查询记录: {60 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:14:52 更新后的记录: {60 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:14:52 查看全部记录:
+2024/05/03 11:14:52 [{2 xxb 18 <nil> xxb@bgbiao.top } {11 于泽 14 <nil> 3104374883@qq.com ss699610}]
+2024/05/03 11:16:20 这是一个日志记录
+2024/05/03 11:16:20 这是另一个日志记录
+2024/05/03 11:16:20 Server started on :8080
+2024/05/03 11:16:24 Received message: rom
+2024/05/03 11:16:24 插入后元素:
+2024/05/03 11:16:24 [{2 xxb 18 <nil> xxb@bgbiao.top } {62 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/03 11:16:24 查看查询记录: {62 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:16:24 更新后的记录: {62 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:16:24 查看全部记录:
+2024/05/03 11:16:24 [{2 xxb 18 <nil> xxb@bgbiao.top }]
+2024/05/03 11:16:29 websocket: close 1005 (no status)
+2024/05/03 11:21:03 这是一个日志记录
+2024/05/03 11:21:03 这是另一个日志记录
+2024/05/03 11:21:03 Server started on :8080
+2024/05/03 11:21:19 Received message: rom
+2024/05/03 11:21:19 插入后元素:
+2024/05/03 11:21:19 [{2 xxb 18 <nil> xxb@bgbiao.top } {64 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/03 11:21:19 查看查询记录: {64 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:21:19 更新后的记录: {64 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:21:19 查看全部记录:
+2024/05/03 11:21:19 [{2 xxb 18 <nil> xxb@bgbiao.top }]
+2024/05/03 11:22:08 这是一个日志记录
+2024/05/03 11:22:08 这是另一个日志记录
+2024/05/03 11:22:08 Server started on :8080
+2024/05/03 11:22:12 Received message: rom
+2024/05/03 11:22:12 插入后元素:
+2024/05/03 11:22:12 [{2 xxb 18 <nil> xxb@bgbiao.top } {67 bgbiao 18 <nil> bgbiao@bgbiao.top } {69 alg 18 <nil> xxx }]
+2024/05/03 11:22:12 查看查询记录: {67 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:22:12 更新后的记录: {67 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:22:12 查看全部记录:
+2024/05/03 11:22:12 [{2 xxb 18 <nil> xxb@bgbiao.top } {69 alg 18 <nil> xxx }]
+2024/05/03 11:23:58 这是一个日志记录
+2024/05/03 11:23:58 这是另一个日志记录
+2024/05/03 11:23:58 Server started on :8080
+2024/05/03 11:24:03 Received message: rom
+2024/05/03 11:24:03 插入后元素:
+2024/05/03 11:24:03 [{2 xxb 18 <nil> xxb@bgbiao.top } {69 alg 18 <nil> xxx } {71 bgbiao 18 <nil> bgbiao@bgbiao.top }]
+2024/05/03 11:24:03 查看查询记录: {71 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:24:03 更新后的记录: {71 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:24:03 查看全部记录:
+2024/05/03 11:24:03 [{2 xxb 18 <nil> xxb@bgbiao.top } {69 alg 18 <nil> xxx }]
+2024/05/03 11:24:51 这是一个日志记录
+2024/05/03 11:24:51 这是另一个日志记录
+2024/05/03 11:24:51 Server started on :8080
+2024/05/03 11:25:06 Received message: rom
+2024/05/03 11:25:06 插入后元素:
+2024/05/03 11:25:06 [{75 bgbiao 18 <nil> bgbiao@bgbiao.top } {76 xxb 18 <nil> xxb@bgbiao.top } {77 alg 18 <nil> xxx }]
+2024/05/03 11:25:06 查看查询记录: {75 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:25:06 更新后的记录: {75 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:25:06 查看全部记录:
+2024/05/03 11:25:06 [{76 xxb 18 <nil> xxb@bgbiao.top } {77 alg 18 <nil> xxx }]
+2024/05/03 11:25:10 websocket: close 1006 (abnormal closure): unexpected EOF
+2024/05/03 11:29:51 这是一个日志记录
+2024/05/03 11:29:51 这是另一个日志记录
+2024/05/03 11:29:51 Server started on :8080
+2024/05/03 11:30:09 Received message: rom
+2024/05/03 11:30:09 删除索引失败: <nil>
+2024/05/03 11:30:09 创建唯一索引失败: <nil>
+2024/05/03 11:30:09 插入后元素:
+2024/05/03 11:30:09 [{79 bgbiao 18 <nil> bgbiao@bgbiao.top } {80 xxb 18 <nil> xxb@bgbiao.top } {81 alg 18 <nil> xxx }]
+2024/05/03 11:30:09 查看查询记录: {79 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:30:09 更新后的记录: {79 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:30:09 查看全部记录:
+2024/05/03 11:30:09 [{80 xxb 18 <nil> xxb@bgbiao.top } {81 alg 18 <nil> xxx }]
+2024/05/03 11:30:15 websocket: close 1005 (no status)
+2024/05/03 11:36:36 这是一个日志记录
+2024/05/03 11:36:36 这是另一个日志记录
+2024/05/03 11:36:36 Server started on :8080
+2024/05/03 11:36:39 Received message: rom
+2024/05/03 11:36:39 插入后元素:
+2024/05/03 11:36:39 [{80 xxb 18 <nil> xxb@bgbiao.top } {81 alg 18 <nil> xxx } {83 bgbiao 18 <nil> bgbiao@bgbiao.top } {86 alg 15 <nil> xx }]
+2024/05/03 11:36:39 查看查询记录: {83 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:36:39 更新后的记录: {83 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:36:39 查看全部记录:
+2024/05/03 11:36:39 [{80 xxb 18 <nil> xxb@bgbiao.top } {81 alg 18 <nil> xxx } {86 alg 15 <nil> xx }]
+2024/05/03 11:37:12 这是一个日志记录
+2024/05/03 11:37:13 这是另一个日志记录
+2024/05/03 11:37:13 Server started on :8080
+2024/05/03 11:37:20 Received message: rom
+2024/05/03 11:37:20 插入后元素:
+2024/05/03 11:37:20 [{87 bgbiao 18 <nil> bgbiao@bgbiao.top } {88 xxb 18 <nil> xxb@bgbiao.top } {89 alg 18 <nil> xxx } {90 alg 15 <nil> xx }]
+2024/05/03 11:37:20 查看查询记录: {87 bgbiao 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:37:20 更新后的记录: {87 biaoge 18 <nil> bgbiao@bgbiao.top }
+2024/05/03 11:37:20 查看全部记录:
+2024/05/03 11:37:20 [{88 xxb 18 <nil> xxb@bgbiao.top } {89 alg 18 <nil> xxx } {90 alg 15 <nil> xx }]
+2024/05/04 11:04:35 这是一个日志记录
+2024/05/04 11:04:35 这是另一个日志记录
+2024/05/04 11:04:35 Server started on :8080
+2024/05/04 11:04:43 Received message: rom
+2024/05/04 11:04:47 websocket: close 1005 (no status)
+2024/05/04 11:15:56 这是一个日志记录
+2024/05/04 11:15:56 这是另一个日志记录
+2024/05/04 11:15:56 Server started on :8080
+2024/05/04 11:16:04 Received message: rom
+2024/05/04 11:16:04 User created successfully, 1 rows affected
+2024/05/04 11:16:07 Received message: rom
+2024/05/04 11:16:07 Error creating user: Error 1062 (23000): Duplicate entry 'example@example.com' for key 'userrs.uix_userrs_email'
+2024/05/04 11:21:09 这是一个日志记录
+2024/05/04 11:21:09 这是另一个日志记录
+2024/05/04 11:21:09 Server started on :8080
+2024/05/04 11:21:15 Received message: ro
+2024/05/04 11:21:22 Received message: rom
+2024/05/04 11:21:22 http: panic serving 127.0.0.1:55282: runtime error: invalid memory address or nil pointer dereference
+goroutine 5 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1898 +0xbe
+panic({0x12ad7a0?, 0x16176d0?})
+	C:/Program Files/Go/src/runtime/panic.go:770 +0x132
+github.com/jinzhu/gorm.(*DB).clone(0x0)
+	C:/Users/user/go/pkg/mod/github.com/jinzhu/gorm@v1.9.16/main.go:853 +0x17
+github.com/jinzhu/gorm.(*DB).NewScope(0x0, {0x1280ea0, 0xc0001fc230})
+	C:/Users/user/go/pkg/mod/github.com/jinzhu/gorm@v1.9.16/main.go:204 +0x26
+github.com/jinzhu/gorm.(*DB).Create(0x0, {0x1280ea0?, 0xc0001fc230?})
+	C:/Users/user/go/pkg/mod/github.com/jinzhu/gorm@v1.9.16/main.go:482 +0x25
+main.handleWebSocket({0x13b1a90?, 0xc00021efc0?}, 0xc000027b30?)
+	D:/GoStudy/Websocket.go:103 +0x286
+net/http.HandlerFunc.ServeHTTP(0x162c0a0?, {0x13b1a90?, 0xc00021efc0?}, 0x118b45a?)
+	C:/Program Files/Go/src/net/http/server.go:2166 +0x29
+net/http.(*ServeMux).ServeHTTP(0xf492b9?, {0x13b1a90, 0xc00021efc0}, 0xc0001550e0)
+	C:/Program Files/Go/src/net/http/server.go:2683 +0x1ad
+net/http.serverHandler.ServeHTTP({0xc0002346c0?}, {0x13b1a90?, 0xc00021efc0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3137 +0x8e
+net/http.(*conn).serve(0xc000086ab0, {0x13b22f0, 0xc00001c900})
+	C:/Program Files/Go/src/net/http/server.go:2039 +0x5e8
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3285 +0x4b4
+2024/05/04 11:22:26 这是一个日志记录
+2024/05/04 11:22:26 这是另一个日志记录
+2024/05/04 11:22:26 Server started on :8080
+2024/05/04 11:22:30 Received message: rom
+2024/05/04 11:22:30 http: panic serving 127.0.0.1:55462: runtime error: invalid memory address or nil pointer dereference
+goroutine 18 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1898 +0xbe
+panic({0x105d7a0?, 0x13c76d0?})
+	C:/Program Files/Go/src/runtime/panic.go:770 +0x132
+github.com/jinzhu/gorm.(*DB).clone(0x0)
+	C:/Users/user/go/pkg/mod/github.com/jinzhu/gorm@v1.9.16/main.go:853 +0x17
+github.com/jinzhu/gorm.(*DB).NewScope(0x0, {0x1030ea0, 0xc00010e0f0})
+	C:/Users/user/go/pkg/mod/github.com/jinzhu/gorm@v1.9.16/main.go:204 +0x26
+github.com/jinzhu/gorm.(*DB).Create(0x0, {0x1030ea0?, 0xc00010e0f0?})
+	C:/Users/user/go/pkg/mod/github.com/jinzhu/gorm@v1.9.16/main.go:482 +0x25
+main.handleWebSocket({0x1161ab0?, 0xc00012e000?}, 0xc000027b30?)
+	D:/GoStudy/Websocket.go:103 +0x2a6
+net/http.HandlerFunc.ServeHTTP(0x13dc0a0?, {0x1161ab0?, 0xc00012e000?}, 0xf3b45a?)
+	C:/Program Files/Go/src/net/http/server.go:2166 +0x29
+net/http.(*ServeMux).ServeHTTP(0xcf92b9?, {0x1161ab0, 0xc00012e000}, 0xc000118000)
+	C:/Program Files/Go/src/net/http/server.go:2683 +0x1ad
+net/http.serverHandler.ServeHTTP({0xc00010c030?}, {0x1161ab0?, 0xc00012e000?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3137 +0x8e
+net/http.(*conn).serve(0xc00028cab0, {0x1162310, 0xc00028e8d0})
+	C:/Program Files/Go/src/net/http/server.go:2039 +0x5e8
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3285 +0x4b4
+2024/05/04 11:31:25 这是一个日志记录
+2024/05/04 11:31:25 这是另一个日志记录
+2024/05/04 11:31:25 Server started on :8080
+2024/05/04 11:31:46 这是一个日志记录
+2024/05/04 11:31:46 这是另一个日志记录
+2024/05/04 11:31:46 Server started on :8080
+2024/05/04 11:31:51 Received message: rom
+2024/05/04 11:31:57 websocket: close 1005 (no status)
+2024/05/04 11:34:33 Log file initialized successfully
+2024/05/04 11:35:55 Log file initialized successfully
+2024/05/04 11:35:55 这是一个日志记录
+2024/05/04 11:35:55 这是另一个日志记录
+2024/05/04 11:35:55 Server started on :8080
+2024/05/04 11:36:00 Received message: rom
+2024/05/04 11:36:02 websocket: close 1005 (no status)
+2024/05/04 11:37:12 Log file initialized successfully
+2024/05/04 11:37:12 这是一个日志记录
+2024/05/04 11:37:12 这是另一个日志记录
+2024/05/04 11:37:12 Server started on :8080
+2024/05/04 11:37:16 Received message: rom
+2024/05/04 11:37:16 User created successfully, 1 rows affected
+2024/05/04 11:37:18 websocket: close 1005 (no status)
+2024/05/04 15:02:30 Log file initialized successfully
+2024/05/04 15:02:30 这是一个日志记录
+2024/05/04 15:02:30 这是另一个日志记录
+2024/05/04 15:02:30 Server started on :8080
+2024/05/04 15:02:37 Received message: rom
+2024/05/04 15:02:37 User created successfully, 1 rows affected
+2024/05/04 15:02:39 Received message: rom
+2024/05/04 15:02:39 Error creating user: Error 1062 (23000): Duplicate entry 'example@example.com' for key 'users.uix_users_email'
+2024/05/04 15:02:45 websocket: close 1005 (no status)
+2024/05/04 15:07:38 Log file initialized successfully
+2024/05/04 15:07:38 这是一个日志记录
+2024/05/04 15:07:38 这是另一个日志记录
+2024/05/04 15:07:38 Server started on :8080
+2024/05/04 15:08:20 Received message: rom
+2024/05/04 15:08:20 Error creating user: Error 1062 (23000): Duplicate entry 'example@example.com' for key 'users.uix_users_email'
+2024/05/04 15:08:28 Received message: rom
+2024/05/04 15:08:28 Error creating user: Error 1062 (23000): Duplicate entry 'example@example.com' for key 'users.uix_users_email'
+2024/05/04 15:08:34 websocket: close 1005 (no status)
+2024/05/04 15:19:08 日志文件初始化成功
+2024/05/04 15:19:08 服务器开启在端口:8080
+2024/05/04 15:19:11 收到消息: rom
+2024/05/04 15:19:11 创建数据失败： Error 1062 (23000): Duplicate entry 'example@example.com' for key 'users.uix_users_email'
+2024/05/04 15:27:01 日志文件初始化成功
+2024/05/04 15:27:01 服务器开启在端口:8080
+2024/05/04 15:27:08 收到消息: rom
+2024/05/04 15:27:08 插入后元素:
+2024/05/04 15:27:08 [{95 Example User 30 <nil> example@example.com } {100 bgbiao 18000 <nil> bgbiao@bgbiao.top } {101 xxb 18 <nil> xxb@bgbiao.top }]
+2024/05/04 15:27:08 查看查询记录: {100 bgbiao 18000 <nil> bgbiao@bgbiao.top }
+2024/05/04 15:27:08 更新后的记录: {100 biaoge 18000 <nil> bgbiao@bgbiao.top }
+2024/05/04 15:27:08 查看全部记录:
+2024/05/04 15:27:08 [{95 Example User 30 <nil> example@example.com } {101 xxb 18 <nil> xxb@bgbiao.top }]
+2024/05/04 15:27:11 读取消息失败 websocket: close 1005 (no status)
+2024/05/04 15:28:21 日志文件初始化成功
+2024/05/04 15:28:21 服务器开启在端口:8080
+2024/05/04 15:28:25 收到消息: rom
+2024/05/04 15:28:25 插入后元素:
+2024/05/04 15:28:25 [{102 bgbiao 99999 <nil> bgbiao@bgbiao.top } {103 xxb 18 <nil> xxb@bgbiao.top }]
+2024/05/04 15:28:25 查看查询记录: {102 bgbiao 99999 <nil> bgbiao@bgbiao.top }
+2024/05/04 15:28:25 更新后的记录: {102 biaoge 99999 <nil> bgbiao@bgbiao.top }
+2024/05/04 15:28:25 查看全部记录:
+2024/05/04 15:28:25 [{103 xxb 18 <nil> xxb@bgbiao.top }]
+2024/05/04 15:28:27 读取消息失败 websocket: close 1005 (no status)
+2024/05/04 15:28:48 日志文件初始化成功
+2024/05/04 15:28:48 服务器开启在端口:8080
+2024/05/04 15:28:53 收到消息: rom
+2024/05/04 15:29:13 日志文件初始化成功
+2024/05/04 15:29:13 服务器开启在端口:8080
+2024/05/04 15:29:18 收到消息: rom
+2024/05/04 15:29:20 读取消息失败 websocket: close 1005 (no status)
+2024/05/04 15:31:07 日志文件初始化成功
+2024/05/04 15:31:07 服务器开启在端口:8080
+2024/05/04 15:31:13 收到消息: rom
+2024/05/04 15:31:17 读取消息失败 websocket: close 1005 (no status)
+2024/05/04 15:37:51 日志文件初始化成功
+2024/05/04 15:37:51 服务器开启在端口:8080
+2024/05/04 15:37:55 收到消息: rom
+2024/05/04 15:37:56 读取消息失败/连接关闭 websocket: close 1005 (no status)
+2024/05/04 15:38:51 日志文件初始化成功
+2024/05/04 15:38:51 服务器开启在端口:8080
+2024/05/04 15:38:56 收到消息: rom
+2024/05/04 15:38:57 读取消息失败/连接关闭 websocket: close 1005 (no status)
+2024/05/04 15:52:48 日志文件初始化成功
+2024/05/04 15:52:48 服务器开启在端口:8080
+2024/05/04 15:52:55 收到消息: rom
+2024/05/04 15:52:55 创建数据失败： Error 1062 (23000): Duplicate entry '112' for key 'users.PRIMARY'
+2024/05/04 15:52:57 读取消息失败/连接关闭 websocket: close 1005 (no status)
+2024/05/04 15:55:58 日志文件初始化成功
+2024/05/04 15:55:58 服务器开启在端口:8080
+2024/05/04 15:56:03 收到消息: rom
+2024/05/04 15:56:03 创建数据成功, 1 rows affected
+2024/05/04 15:56:05 读取消息失败/连接关闭 websocket: close 1005 (no status)
+2024/05/04 15:56:59 日志文件初始化成功
+2024/05/04 15:56:59 服务器开启在端口:8080
+2024/05/04 15:57:02 收到消息: rom
+2024/05/04 15:57:02 创建数据成功, 1 rows affected
+2024/05/04 15:57:03 读取消息失败/连接关闭 websocket: close 1005 (no status)
+2024/05/04 15:58:19 日志文件初始化成功
+2024/05/04 15:58:19 服务器开启在端口:8080
+2024/05/04 15:58:22 收到消息: rom
+2024/05/04 15:58:23 读取消息失败/连接关闭 websocket: close 1005 (no status)
+2024/05/04 15:58:57 日志文件初始化成功
+2024/05/04 15:58:57 服务器开启在端口:8080
+2024/05/04 15:59:05 收到消息: rom
+2024/05/04 15:59:07 读取消息失败/连接关闭 websocket: close 1005 (no status)
+2024/05/04 15:59:38 日志文件初始化成功
+2024/05/04 15:59:38 服务器开启在端口:8080
+2024/05/04 15:59:52 收到消息: rom
+2024/05/04 16:00:30 日志文件初始化成功
+2024/05/04 16:00:30 服务器开启在端口:8080
+2024/05/04 16:00:33 收到消息: rom
+2024/05/04 16:00:33 创建数据成功, 1 rows affected
+2024/05/04 16:10:31 日志文件初始化成功
+2024/05/04 16:10:31 服务器开启在端口:8080
+2024/05/04 16:13:38 日志文件初始化成功
+2024/05/04 16:13:38 服务器开启在端口:8080
+2024/05/04 16:13:44 收到消息: rom
+2024/05/04 16:13:44 插入后元素:
+2024/05/04 16:13:44 [{120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top } {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top } {122 bgbiao 99999 2024-05-04 16:00:33 +0800 CST bgbia }]
+2024/05/04 16:13:44 查看查询记录: {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:13:44 查看记录2： {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:14:35 日志文件初始化成功
+2024/05/04 16:14:35 服务器开启在端口:8080
+2024/05/04 16:14:38 收到消息: rom
+2024/05/04 16:14:38 插入后元素:
+2024/05/04 16:14:38 [{120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top } {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top } {122 bgbiao 99999 2024-05-04 16:00:33 +0800 CST bgbia }]
+2024/05/04 16:14:38 查看查询记录: {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:14:38 查看记录2： {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:15:05 日志文件初始化成功
+2024/05/04 16:15:05 服务器开启在端口:8080
+2024/05/04 16:15:08 收到消息: rom
+2024/05/04 16:15:08 插入后元素:
+2024/05/04 16:15:08 [{120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top } {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top } {122 bgbiao 99999 2024-05-04 16:00:33 +0800 CST bgbia }]
+2024/05/04 16:15:08 查看查询记录: {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:15:08 查看记录2： {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:15:58 日志文件初始化成功
+2024/05/04 16:15:58 服务器开启在端口:8080
+2024/05/04 16:16:04 收到消息: rom
+2024/05/04 16:16:04 插入后元素:
+2024/05/04 16:16:04 [{120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top } {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top } {122 bgbiao 99999 2024-05-04 16:00:33 +0800 CST bgbia }]
+2024/05/04 16:16:04 查看查询记录: {120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top }
+2024/05/04 16:16:04 查看记录2： {120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top }
+2024/05/04 16:16:29 日志文件初始化成功
+2024/05/04 16:16:29 服务器开启在端口:8080
+2024/05/04 16:16:34 收到消息: rom
+2024/05/04 16:16:34 插入后元素:
+2024/05/04 16:16:34 [{120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top } {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top } {122 bgbiao 99999 2024-05-04 16:00:33 +0800 CST bgbia }]
+2024/05/04 16:16:34 查看查询记录: {120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top }
+2024/05/04 16:16:34 查看记录2： {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:18:48 日志文件初始化成功
+2024/05/04 16:18:48 服务器开启在端口:8080
+2024/05/04 16:18:51 收到消息: rom
+2024/05/04 16:18:51 插入后元素:
+2024/05/04 16:18:51 [{120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top } {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top } {122 bgbiao 99999 2024-05-04 16:00:33 +0800 CST bgbia }]
+2024/05/04 16:18:51 查看查询记录: {120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top }
+2024/05/04 16:18:51 查看记录2： {121 xxb 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:18:51 更新后的记录: {120 bgbiao 99999 2024-05-04 15:59:52 +0800 CST bgbiao@bgbiao.top }
+2024/05/04 16:18:51 查看全部记录:
+2024/05/04 16:18:51 [{121 biaoge 18 2024-05-04 15:59:52 +0800 CST xxb@bgbiao.top } {122 bgbiao 99999 2024-05-04 16:00:33 +0800 CST bgbia }]
+2024/05/04 16:29:26 日志文件初始化成功
+2024/05/04 16:29:26 服务器开启在端口:8080
+2024/05/04 16:29:31 收到消息: rom
+2024/05/04 16:29:31 插入后元素:
+2024/05/04 16:29:31 [{135 bgbiao 99999 2024-05-04 16:29:32 +0800 CST bgbiao@bgbiao.top } {136 xxb 18 2024-05-04 16:29:32 +0800 CST xxb@bgbiao.top } {137 xxb 18 2024-05-04 16:29:32 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:29:31 查看查询记录: {135 bgbiao 99999 2024-05-04 16:29:32 +0800 CST bgbiao@bgbiao.top }
+2024/05/04 16:29:31 查看记录2： {136 xxb 18 2024-05-04 16:29:32 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:29:31 更新后的记录: {135 bgbiao 99999 2024-05-04 16:29:32 +0800 CST bgbiao@bgbiao.top }
+2024/05/04 16:29:31 users1： [{137 xxb 18 2024-05-04 16:29:32 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:29:31 users2： [{136 biaoge 18 2024-05-04 16:29:32 +0800 CST xxb@bgbiao.top } {137 xxb 18 2024-05-04 16:29:32 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:29:31 users3： []
+2024/05/04 16:29:31 查看全部记录:
+2024/05/04 16:29:31 [{136 biaoge 18 2024-05-04 16:29:32 +0800 CST xxb@bgbiao.top } {137 xxb 18 2024-05-04 16:29:32 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:30:40 日志文件初始化成功
+2024/05/04 16:30:40 服务器开启在端口:8080
+2024/05/04 16:30:44 收到消息: rom
+2024/05/04 16:30:44 插入后元素:
+2024/05/04 16:30:44 [{138 bgbiao 99999 2024-05-04 16:30:44 +0800 CST bgbiao@bgbiao.top } {139 xxb 18 2024-05-04 16:30:44 +0800 CST xxb@bgbiao.top } {140 xxb 18 2024-05-04 16:30:44 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:30:44 查看查询记录: {138 bgbiao 99999 2024-05-04 16:30:44 +0800 CST bgbiao@bgbiao.top }
+2024/05/04 16:30:44 查看记录2： {139 xxb 18 2024-05-04 16:30:44 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:30:44 更新后的记录: {138 bgbiao 99999 2024-05-04 16:30:44 +0800 CST bgbiao@bgbiao.top }
+2024/05/04 16:30:44 users1： [{140 xxb 18 2024-05-04 16:30:44 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:30:44 users2： [{139 biaoge 18 2024-05-04 16:30:44 +0800 CST xxb@bgbiao.top } {140 xxb 18 2024-05-04 16:30:44 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:30:44 users3： []
+2024/05/04 16:30:44 查看全部记录:
+2024/05/04 16:30:44 [{138 bgbiao 99999 2024-05-04 16:30:44 +0800 CST bgbiao@bgbiao.top } {139 biaoge 18 2024-05-04 16:30:44 +0800 CST xxb@bgbiao.top } {140 xxb 18 2024-05-04 16:30:44 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:33:32 日志文件初始化成功
+2024/05/04 16:33:33 服务器开启在端口:8080
+2024/05/04 16:33:36 收到消息: rom
+2024/05/04 16:33:36 插入后元素:
+2024/05/04 16:33:36 [{141 bgbiao 99999 2024-05-04 16:33:37 +0800 CST bgbiao@bgbiao.top } {142 xxb 18 2024-05-04 16:33:37 +0800 CST xxb@bgbiao.top } {143 xxb 18 2024-05-04 16:33:37 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:33:36 查看查询记录: {141 bgbiao 99999 2024-05-04 16:33:37 +0800 CST bgbiao@bgbiao.top }
+2024/05/04 16:33:36 查看记录2： {142 xxb 18 2024-05-04 16:33:37 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:33:36 更新后的记录: {142 biaoge 18 2024-05-04 16:33:37 +0800 CST xxb@bgbiao.top }
+2024/05/04 16:33:36 users1： [{143 xxb 18 2024-05-04 16:33:37 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:33:36 users2： [{142 biaoge 18 2024-05-04 16:33:37 +0800 CST xxb@bgbiao.top } {143 xxb 18 2024-05-04 16:33:37 +0800 CST xxb@bgbiao.to }]
+2024/05/04 16:33:36 users3： []
+2024/05/04 16:33:36 查看全部记录:
+2024/05/04 16:33:36 [{142 biaoge 18 2024-05-04 16:33:37 +0800 CST xxb@bgbiao.top } {143 xxb 18 2024-05-04 16:33:37 +0800 CST xxb@bgbiao.to }]
